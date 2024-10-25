@@ -1,0 +1,1 @@
+# Financial-Analysis-of-fraud-pattern-in-canada
